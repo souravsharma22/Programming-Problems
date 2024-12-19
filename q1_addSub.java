@@ -11,7 +11,7 @@ public class q1_addSub {
     }
     public static void main(String[] args) {
         String ans=addSub("-1/2+2/2");
-        //System.out.println(ans);
+        System.out.println(ans);
     }
 
 }
